@@ -1,4 +1,4 @@
-## Template Materi dan Tugas Laravel
+## Template Base Project Laravel
 
 - Join ke Classrom melalui invitation link yang telah diberikan
 - Jalankan perintah : composer install
